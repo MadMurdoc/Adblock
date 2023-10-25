@@ -1,0 +1,2 @@
+firebaseremoteconfig.googleapis.com
+s.to
