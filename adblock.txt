@@ -10,4 +10,6 @@ configv2.unityads.unity3d.com
 ||tapjoy.com^
 ||applovin.com^
 ||supersonicads.com^
+||thinkingdata.io^
+||thinkingdata.cn^
 s.to
