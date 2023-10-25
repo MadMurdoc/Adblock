@@ -1,2 +1,13 @@
 firebaseremoteconfig.googleapis.com
+firebase-settings.crashlytics.com
+app-measurement.com
+crashlyticsreports-pa.googleapis.com
+region1.app-measurement.com
+graph.facebook.com
+cdp.cloud.unity3d.com
+configv2.unityads.unity3d.com
+||vungle.com
+||tapjoy.com
+||applovin.com
+||supersonicads.com
 s.to
