@@ -13,3 +13,4 @@ configv2.unityads.unity3d.com
 ||thinkingdata.io^
 ||thinkingdata.cn^
 s.to
+sentry.io
