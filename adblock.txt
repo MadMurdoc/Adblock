@@ -38,6 +38,6 @@ browser.sentry-cdn.com
 log.byteoversea.com
 ads.pinterest.com
 widgets.pinterest.com
-*.yandex.ru
-*.miui.com
-*.xiaomi.com
+||yandex.ru^
+||miui.com^
+||xiaomi.com^
