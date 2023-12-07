@@ -35,3 +35,9 @@ gemini.yahoo.com
 adtech.yahooinc.com
 app.getsentry.com
 browser.sentry-cdn.com
+log.byteoversea.com
+ads.pinterest.com
+widgets.pinterest.com
+*.yandex.ru
+*.miui.com
+*.xiaomi.com
