@@ -34,3 +34,4 @@ log.fc.yahoo.com
 gemini.yahoo.com
 adtech.yahooinc.com
 app.getsentry.com
+browser.sentry-cdn.com
