@@ -39,3 +39,4 @@ browser.sentry-cdn.com
 log.byteoversea.com
 ads.pinterest.com
 widgets.pinterest.com
+advertising.apple.com
