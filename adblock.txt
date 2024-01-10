@@ -40,3 +40,7 @@ log.byteoversea.com
 ads.pinterest.com
 widgets.pinterest.com
 advertising.apple.com
+notify.bugsnag.com
+sessions.bugsnag.com
+api.bugsnag.com
+app.bugsnag.com
