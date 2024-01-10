@@ -26,6 +26,7 @@ ads-api.tiktok.com
 ads-sg.tiktok.com
 business-api.tiktok.com
 ads.tiktok.com
+ads.yahoo.com
 udc.yahoo.com
 udcm.yahoo.com
 advertising.yahoo.com
