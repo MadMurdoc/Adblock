@@ -44,3 +44,6 @@ notify.bugsnag.com
 sessions.bugsnag.com
 api.bugsnag.com
 app.bugsnag.com
+ads.facebook.com
+advertising.twitter.com
+ads.yap.yahoo.com
