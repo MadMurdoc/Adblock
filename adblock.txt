@@ -47,3 +47,5 @@ app.bugsnag.com
 ads.facebook.com
 advertising.twitter.com
 ads.yap.yahoo.com
+jnn-pa.googleapis.com
+kinesis.eu-west-1.amazonaws.com
